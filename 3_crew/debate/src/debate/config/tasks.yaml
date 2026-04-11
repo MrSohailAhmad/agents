@@ -17,6 +17,7 @@ oppose:
     Your clear argument against the motion, in a concise manner.
   agent: debater
   output_file: output/oppose.md
+
 decide:
   description: >
     Review the arguments presented by the debaters and decide which side is more convincing.
@@ -24,3 +25,4 @@ decide:
     Your decision on which side is more convincing, and why.
   agent: judge
   output_file: output/decide.md
+  
